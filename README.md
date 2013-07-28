@@ -1,4 +1,6 @@
-demo-autoload-composer
+Autoloader in Composer
 ======================
 
-Demo for article "Autoload in Composer" (in russian)
+Examples for article "Autoload in Composer" (in Russian)
+
+* [classmap](https://github.com/4devs/demo-autoload-composer/blob/master/web/classmap.php)
