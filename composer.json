@@ -12,6 +12,10 @@
         
     },
     "autoload": {
+        "psr-0": {
+            "NS": "src/",
+            "Filter_": "src/PEAR"
+        },
         "classmap": ["src/NotPSR0"],
         "files": ["src/htmlHelpers.php"]
     }
