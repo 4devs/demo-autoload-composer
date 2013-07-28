@@ -12,7 +12,8 @@
         
     },
     "autoload": {
-        "classmap": ["src/NotPSR0"]
+        "classmap": ["src/NotPSR0"],
+        "files": ["src/htmlHelpers.php"]
     }
         
 }
